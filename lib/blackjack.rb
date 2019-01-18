@@ -57,13 +57,4 @@ end
 #####################################################
 
 def runner
-  # code runner here
-  card_total = 0;
-
-  puts "Welcome to Blackjack!"
 end
-  #card_total = initial_round
-  #until card_total > 21
-    #card = hit?(card_total)
-    #puts "Total = #{card_total}"
-  #end
