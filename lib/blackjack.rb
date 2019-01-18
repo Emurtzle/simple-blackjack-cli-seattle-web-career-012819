@@ -67,4 +67,3 @@ end
     #card = hit?(card_total)
     #puts "Total = #{card_total}"
   #end
-end
