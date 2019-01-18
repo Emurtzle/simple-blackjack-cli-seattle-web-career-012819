@@ -64,5 +64,6 @@ def runner
   card_total = initial_round
   until card_total > 21
     card = hit?(card_total)
+    puts "Total = #{card_total}"
   end
 end
