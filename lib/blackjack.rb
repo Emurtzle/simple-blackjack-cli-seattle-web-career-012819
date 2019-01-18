@@ -39,9 +39,11 @@ def hit? (number)
   input = get_user_input
 
   if input.downcase == "h"
+    
   elsif input.downcase == "s"
   else
     invalid_command
+    hit?
   end
 
 end
