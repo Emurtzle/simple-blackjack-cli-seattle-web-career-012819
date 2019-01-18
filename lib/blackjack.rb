@@ -70,3 +70,4 @@ def runner
     ##puts "Total = #{card_total}"
   ##end
 end
+end
