@@ -39,8 +39,9 @@ def hit? (number)
   input = get_user_input
 
   if input.downcase == "h"
-
+    number += deal_card
   elsif input.downcase == "s"
+    number
   else
     invalid_command
     number
