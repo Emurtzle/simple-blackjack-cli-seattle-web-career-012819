@@ -57,4 +57,10 @@ end
 
 def runner
   # code runner here
+  card_total = 0;
+
+  puts "Welcome to Blackjack!"
+
+  card_total = initial_round
+  
 end
