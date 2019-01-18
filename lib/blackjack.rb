@@ -41,6 +41,7 @@ def hit? (number)
   if input.downcase == "h"
   elsif input.downcase == "s"
   else
+    invalid_command
   end
 
 end
