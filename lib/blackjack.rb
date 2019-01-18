@@ -43,6 +43,7 @@ def hit? (number)
   elsif input.downcase == "s"
   else
     invalid_command
+    number
   end
 
 end
